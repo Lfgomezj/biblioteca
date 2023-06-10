@@ -1,2 +1,4 @@
-package com.example.biblioteca.Entidades;public class Editorial {
+package com.example.biblioteca.Entidades;
+
+public class Editorial {
 }
